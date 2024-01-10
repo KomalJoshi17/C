@@ -1,9 +1,9 @@
 // buffer is the process of reading a program or a function
 
 // ESCAPE SEQUENCES
-// for double quote \"   "\ 
+// for double quote
 // new line \n
-// unknown escapse sequence warning \ 
+// unknown escapse sequence warning
 // if \\ then \ will get printed
 
 #include<stdio.h>
